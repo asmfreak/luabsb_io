@@ -3,7 +3,7 @@ Simple Lua module to interact with BlackSwift GPIO. Based on articles by BlackSw
 This module uses _fast_ "direct gpio register access" method. It means that this library is working with AR9331's registers directly. Use it with care.
 
 ##Installing
-1. Download .ipk from [releases tab](http://github.com/AsmfreaK/) or build it yourself (see section below)
+1. Download .ipk from [releases tab](https://github.com/ASMfreaK/luabsb_io/releases) or build it yourself (see section below)
 2. Copy it to your BlackSwift
 3. Run `opkg install luabsb_io_<version>.ipk`
 
